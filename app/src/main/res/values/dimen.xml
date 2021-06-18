@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+<!--    <dimen name="activity_horizontal_margin">16dp</dimen>-->
+<!--    <dimen name="activity_vertical_margin">16dp</dimen>-->
+
+    <!-- common margins & paddings -->
+    <dimen name="padding_1">1dp</dimen>
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_3">3dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+    <dimen name="padding_36">36dp</dimen>
+    <dimen name="padding_72">72dp</dimen>
+
+
+    <dimen name="round_corner_radius">10dp</dimen>
+
+
+    <item name="three_items" format="float" type="dimen">1.3</item>
+    <item name="five_items" format="float" type="dimen">1.25</item>
+    <item name="seven_items" format="float" type="dimen">1.16</item>
+    <!-- common text sizes -->
+    <dimen name="text_8">8sp</dimen>
+    <dimen name="text_10">10sp</dimen>
+    <dimen name="text_11">11sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_13">13sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_34">34sp</dimen>
+    <dimen name="text_45">45sp</dimen>
+    <dimen name="text_56">56sp</dimen>
+
+    <dimen name="btn_text_size">20sp</dimen>
+
+    <dimen name="view_hgt">0.3dp</dimen>
+
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_80">100dp</dimen>
+    <dimen name="margin_150">150dp</dimen>
+
+    <dimen name="tool_bar_top_padding">24dp</dimen>
+
+    <dimen name="eleven_sp">11.0sp</dimen>
+    <dimen name="six_dp_revamp">6.0dip</dimen>
+
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="user_management_msg_margin">12dp</dimen>
+
+    <dimen name="product_detail_image_height">400dp</dimen>
+    <dimen name="static_image_height">220dp</dimen>
+    <dimen name="homebtn_height">65dp</dimen>
+<!--    <dimen name="fab_margin">16dp</dimen>-->
+
+</resources>
